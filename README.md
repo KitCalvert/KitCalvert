@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @KitCalvert
-- 👀 I’m interested in cheese
-- 🌱 I’m currently learning about cheese
-- 💞️ I’m looking to collaborate on cheese production
-- 📫 How to reach me: cheese phone
+I am trying my hardest to become a useful person
